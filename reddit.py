@@ -1,3 +1,5 @@
+__author__ = "Taivo Pungas" # https://github.com/taivop/joke-dataset
+
 import praw
 import json
 import time
